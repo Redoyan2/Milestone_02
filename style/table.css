@@ -1,0 +1,17 @@
+.table-box{
+margin: 0px 100px;
+
+}
+
+
+table{
+    border-collapse: collapse;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+}
+
+td, th{
+    border:1px solid darkred ;
+    
+}

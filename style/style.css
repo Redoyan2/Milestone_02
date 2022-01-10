@@ -1,0 +1,20 @@
+.header_name{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+span{
+    color: crimson;
+}
+.media{
+    display: flex;
+    margin: 20px;
+    padding: 50px;
+}
+.div_media{
+    margin: 20px;
+    margin-left: 100px;
+}
+.div_media_video{
+    margin-left: 100px;
+}

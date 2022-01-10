@@ -1,0 +1,31 @@
+
+span{
+    color: crimson;
+}
+h1{
+    font-size: 60px;
+    color: black;
+    text-align: center;
+}
+
+ul{
+    display: flex;
+    
+}
+
+ul li{
+   list-style: none;
+   margin-right: 20px;
+   padding: 0px 5px;
+   
+}
+
+li:hover{
+    background-color: darkorchid;
+}
+ul li a {
+    text-decoration: none;
+    color: darkkhaki;
+    font-size: 20px;
+    
+}
